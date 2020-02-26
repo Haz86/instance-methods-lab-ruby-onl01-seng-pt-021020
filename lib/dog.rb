@@ -7,7 +7,7 @@ end
 
 def sit
 
-  puts "The Dog is Sitting"
+  puts "The Dog is stting"
 
 end
 end
