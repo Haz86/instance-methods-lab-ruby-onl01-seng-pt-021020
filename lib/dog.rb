@@ -1,14 +1,13 @@
-
 class Dog
 
-  def Bark
+  def bark
 
-    puts "Woof"
+    puts "Woof!"
 end
 
 def sit
 
-  puts "Dog is Sitting"
+  puts "The Dog is Sitting"
 
 end
 end
