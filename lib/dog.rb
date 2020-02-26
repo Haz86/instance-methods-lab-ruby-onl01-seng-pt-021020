@@ -13,7 +13,3 @@ def sit
 end
 end
 
-fido = Dog.new
-fido.Bark
-fido.sit
-
